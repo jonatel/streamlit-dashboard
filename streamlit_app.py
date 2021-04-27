@@ -7,6 +7,7 @@ import streamlit as st
 """
 # Data Training Generation with Chandelier
 
+
 Percentage Chandelier as ouput order manager.
 
 """
